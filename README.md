@@ -3,6 +3,9 @@
 ### I'm Thiago Costa, 
 
 Front End Developer React JS, React Native, NodeJs | Computer Engineering Student at Universidade Federal do Rio de Janeiro (UFRJ), Brasil. 👨🏻‍💻 
+
+<p>&nbsp;</p>
+
  
  **Languages and Frameworks:**
 <p align="left">
@@ -14,6 +17,9 @@ Front End Developer React JS, React Native, NodeJs | Computer Engineering Studen
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" /></code>&nbsp;  
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
+   
+   <p>&nbsp;</p>
+
 
 **Connect with me:**
 <p align="left">
@@ -22,9 +28,7 @@ Front End Developer React JS, React Native, NodeJs | Computer Engineering Studen
 <a href="https://www.facebook.com/thiagodias2708/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thiagodias2708" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
+<p>&nbsp;</p>
 
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
-
-<img src="https://komarev.com/ghpvc/?username=thgcst" alt="thgcst" />
 
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=thgcst&count_private=true&show_icons=true)
