@@ -12,6 +12,7 @@ Front End Developer React JS, React Native, NodeJs | Computer Engineering Studen
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="javascript" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="css" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" alt="typescript" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react-native" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" /></code>&nbsp;  
